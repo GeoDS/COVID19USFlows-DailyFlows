@@ -54,6 +54,7 @@ Due to the data size restriction of GitHub, we have splitted our repository into
 
 | Data Repository | Data Type | Scale | Time Range |   
 | --- | ----------- | --- | ----------- |   
+|[COVID19USFlows](https://github.com/GeoDS/COVID19USFlows)|index page| --- |2019-2021|  
 |[COVID19USFlows-WeeklyFlows](https://github.com/GeoDS/COVID19USFlows-WeeklyFlows)|weekly data|state, county|2019-2021|  
 |[COVID19USFlows-WeeklyFlows-Ct2019](https://github.com/GeoDS/COVID19USFlows-WeeklyFlows-Ct2019)|weekly data|census tract|2019|  
 |[COVID19USFlows-WeeklyFlows-Ct2020](https://github.com/GeoDS/COVID19USFlows-WeeklyFlows-Ct2020)|weekly data|census tract|2020|  
